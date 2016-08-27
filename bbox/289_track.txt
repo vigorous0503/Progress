@@ -1,0 +1,840 @@
+1 1 "car" 469 336 583 443 "involved accident"
+1 2 "motorbike" 983 487 1274 714 "involved accident"
+1 4 "motorbike" 310 343 343 416
+1 5 "car" 367 349 435 403
+1 7 "person" 1002 257 1255 592 "involved accident"
+1 8 "car" 681 348 804 448
+1 9 "car" 851 304 1048 498
+1 10 "car" 578 339 620 391
+1 13 "car" 610 342 671 407
+2 1 "car" 469 336 584 443 "involved accident"
+2 2 "motorbike" 970 485 1257 712 "involved accident"
+2 4 "motorbike" 311 343 344 415
+2 5 "car" 368 349 435 402
+2 7 "person" 993 259 1235 590 "involved accident"
+2 8 "car" 685 348 808 448
+2 9 "car" 861 305 1070 498
+2 10 "car" 578 339 621 391
+2 13 "car" 611 342 673 407
+3 1 "car" 470 336 586 444 "involved accident"
+3 2 "motorbike" 957 484 1241 711 "involved accident"
+3 4 "motorbike" 312 343 345 415
+3 5 "car" 369 349 436 402
+3 7 "person" 985 262 1216 588 "involved accident"
+3 8 "car" 689 349 812 449
+3 9 "car" 871 306 1093 499
+3 10 "car" 579 339 623 391
+3 13 "car" 613 343 675 408
+4 1 "car" 471 336 588 444 "involved accident"
+4 2 "motorbike" 944 482 1225 710 "involved accident"
+4 4 "motorbike" 313 343 346 415
+4 5 "car" 370 349 437 402
+4 7 "person" 977 264 1197 586 "involved accident"
+4 8 "car" 693 349 816 449
+4 9 "car" 881 307 1116 500
+4 10 "car" 580 339 625 391
+4 13 "car" 615 343 678 408
+5 1 "car" 472 336 590 445 "involved accident"
+5 2 "motorbike" 932 481 1209 709 "involved accident"
+5 4 "motorbike" 314 343 347 415
+5 5 "car" 371 349 438 402
+5 7 "person" 969 267 1178 584 "involved accident"
+5 8 "car" 698 350 821 450
+5 9 "car" 891 308 1139 501
+5 10 "car" 581 340 627 391
+5 13 "car" 617 344 680 409
+6 1 "car" 473 336 592 446 "involved accident"
+6 2 "motorbike" 919 480 1192 708 "involved accident"
+6 4 "motorbike" 315 343 348 415
+6 5 "car" 373 349 439 402
+6 7 "person" 961 269 1158 582 "involved accident"
+6 8 "car" 702 351 825 451
+6 9 "car" 935 309 1161 502
+6 10 "car" 582 340 628 391
+6 13 "car" 619 345 683 409
+7 1 "car" 473 336 594 446 "involved accident"
+7 2 "motorbike" 906 478 1176 707 "involved accident"
+7 4 "motorbike" 316 344 349 414
+7 5 "car" 374 349 440 402
+7 7 "person" 953 272 1139 580 "involved accident"
+7 8 "car" 706 351 829 451
+7 9 "car" 979 310 1184 504
+7 10 "car" 583 340 630 391
+7 13 "car" 620 345 685 410
+8 1 "car" 474 336 596 447 "involved accident"
+8 2 "motorbike" 893 477 1160 706 "involved accident"
+8 4 "motorbike" 317 344 350 414
+8 5 "car" 375 349 441 402
+8 7 "person" 945 274 1120 578 "involved accident"
+8 8 "car" 710 352 833 452
+8 9 "car" 1023 311 1206 506
+8 10 "car" 584 340 632 391
+8 13 "car" 622 346 688 410
+9 1 "car" 475 336 598 448 "involved accident"
+9 2 "motorbike" 881 476 1144 705 "involved accident"
+9 4 "motorbike" 318 344 351 414
+9 5 "car" 376 349 442 401
+9 7 "person" 937 277 1101 577 "involved accident"
+9 8 "car" 715 353 838 453
+9 9 "car" 1067 313 1229 508
+9 10 "car" 585 341 634 392
+9 13 "car" 624 346 690 411
+10 1 "car" 476 336 600 448 "involved accident"
+10 2 "motorbike" 869 471 1128 701 "involved accident"
+10 4 "motorbike" 319 344 352 414
+10 5 "car" 378 349 443 401
+10 7 "person" 923 275 1087 575 "involved accident"
+10 8 "car" 717 353 845 452
+10 9 "car" 1053 311 1237 516
+10 10 "car" 587 340 636 391
+10 13 "car" 626 347 693 411
+11 1 "car" 477 336 602 449 "involved accident"
+11 2 "motorbike" 858 467 1113 697 "involved accident"
+11 4 "motorbike" 320 344 353 414
+11 5 "car" 379 349 444 401
+11 7 "person" 910 274 1074 574 "involved accident"
+11 8 "car" 720 353 853 452
+11 9 "car" 1039 310 1245 524
+11 10 "car" 589 340 638 391
+11 13 "car" 628 348 695 412
+12 1 "car" 477 336 604 449 "involved accident"
+12 2 "motorbike" 846 463 1098 693 "involved accident"
+12 4 "motorbike" 322 345 355 413
+12 5 "car" 380 350 444 401
+12 7 "person" 896 272 1060 572 "involved accident"
+12 8 "car" 723 353 860 452
+12 9 "car" 1026 309 1253 532
+12 10 "car" 592 340 641 391
+12 13 "car" 629 348 698 412
+13 1 "car" 478 336 606 450 "involved accident"
+13 2 "motorbike" 835 459 1083 689 "involved accident"
+13 4 "motorbike" 323 345 356 413
+13 5 "car" 381 350 445 401
+13 7 "person" 883 271 1047 571 "involved accident"
+13 8 "car" 725 353 868 452
+13 9 "car" 1012 308 1261 540
+13 10 "car" 594 339 643 390
+13 13 "car" 631 349 700 413
+14 1 "car" 479 336 608 451 "involved accident"
+14 2 "motorbike" 823 455 1068 685 "involved accident"
+14 4 "motorbike" 324 345 357 413
+14 5 "car" 383 350 446 401
+14 7 "person" 869 269 1033 569 "involved accident"
+14 8 "car" 728 353 875 452
+14 9 "car" 998 307 1269 548
+14 10 "car" 596 339 645 390
+14 13 "car" 633 349 703 413
+15 1 "car" 480 336 610 451 "involved accident"
+15 2 "motorbike" 812 451 1053 682 "involved accident"
+15 4 "motorbike" 325 345 358 413
+15 5 "car" 384 350 447 401
+15 7 "person" 856 268 1020 568 "involved accident"
+15 8 "car" 731 353 883 452
+15 9 "car" 985 306 1277 556
+15 10 "car" 599 339 648 390
+15 13 "car" 635 350 705 414
+16 1 "car" 481 337 612 452 "involved accident"
+16 2 "motorbike" 808 448 1037 676 "involved accident"
+16 4 "motorbike" 326 345 359 413
+16 5 "car" 385 350 448 400
+16 7 "person" 849 271 1006 561 "involved accident"
+16 8 "car" 749 353 894 456
+16 9 "car" 999 307 1277 557
+16 10 "car" 600 339 650 391
+16 13 "car" 637 351 708 415
+17 1 "car" 481 337 614 453 "involved accident"
+17 2 "motorbike" 805 445 1021 671 "involved accident"
+17 4 "motorbike" 327 346 360 412
+17 5 "car" 386 350 449 400
+17 7 "person" 842 275 993 554 "involved accident"
+17 8 "car" 767 353 906 460
+17 9 "car" 1013 308 1277 558
+17 10 "car" 601 339 652 392
+17 13 "car" 639 350 712 416
+18 1 "car" 482 337 616 453 "involved accident"
+18 2 "motorbike" 801 442 1005 665 "involved accident"
+18 4 "motorbike" 328 346 361 412
+18 5 "car" 388 350 450 400
+18 7 "person" 835 279 980 548 "involved accident"
+18 8 "car" 785 353 917 464
+18 9 "car" 1027 310 1277 560
+18 10 "car" 603 339 655 393
+18 13 "car" 642 350 717 418
+19 1 "car" 483 337 618 454 "involved accident"
+19 2 "motorbike" 798 440 989 660 "involved accident"
+19 4 "motorbike" 329 346 362 412
+19 5 "car" 389 350 451 400
+19 7 "person" 829 282 966 541 "involved accident"
+19 8 "car" 803 353 929 468
+19 9 "car" 1041 311 1277 561
+19 10 "car" 604 340 657 394
+19 11 "person" 979 314 1018 439
+19 13 "car" 645 350 722 419
+20 1 "car" 484 337 620 455 "involved accident"
+20 2 "motorbike" 794 437 973 654 "involved accident"
+20 4 "motorbike" 330 346 363 412
+20 5 "car" 390 350 452 400
+20 7 "person" 822 286 953 535 "involved accident"
+20 8 "car" 822 354 940 472
+20 9 "car" 1055 313 1278 563
+20 10 "car" 605 340 660 395
+20 11 "person" 987 313 1026 438
+20 13 "car" 647 350 727 421
+21 1 "car" 485 337 622 455 "involved accident"
+21 2 "motorbike" 791 434 957 649 "involved accident"
+21 4 "motorbike" 331 346 364 412
+21 5 "car" 391 350 453 400
+21 7 "person" 815 290 940 528 "involved accident"
+21 8 "car" 840 354 952 476
+21 9 "car" 1069 314 1278 564
+21 10 "car" 607 340 662 396
+21 11 "person" 995 313 1034 438
+21 13 "car" 650 349 732 422
+22 1 "car" 485 337 624 456 "involved accident"
+22 2 "motorbike" 788 432 941 644 "involved accident"
+22 4 "motorbike" 333 347 366 412
+22 5 "car" 393 351 454 400
+22 7 "person" 809 294 927 522 "involved accident"
+22 8 "car" 858 354 963 480
+22 9 "car" 1083 315 1278 565
+22 10 "car" 608 341 665 397
+22 11 "person" 1004 313 1043 438
+22 13 "car" 653 349 737 424
+23 1 "car" 486 337 626 456 "involved accident"
+23 2 "motorbike" 783 430 935 637 "involved accident"
+23 4 "motorbike" 335 347 368 411
+23 5 "car" 395 351 456 399
+23 7 "person" 803 295 921 517 "involved accident"
+23 8 "car" 876 354 975 484
+23 9 "car" 1097 317 1278 567
+23 10 "car" 610 341 667 398
+23 11 "person" 1012 313 1051 438
+23 13 "car" 655 349 742 425
+24 1 "car" 487 337 628 457 "involved accident"
+24 2 "motorbike" 778 429 930 630 "involved accident"
+24 4 "motorbike" 338 347 371 411
+24 5 "car" 397 351 458 399
+24 7 "person" 798 297 916 513 "involved accident"
+24 8 "car" 895 355 987 489
+24 9 "car" 1111 318 1278 568
+24 10 "car" 611 341 669 399
+24 11 "person" 1021 313 1060 438
+24 12 "person" 1078 314 1113 436
+24 13 "car" 658 349 747 427
+25 1 "car" 488 337 630 458 "involved accident"
+25 2 "motorbike" 773 427 924 624 "involved accident"
+25 4 "motorbike" 340 347 373 411
+25 5 "car" 400 351 460 399
+25 7 "person" 793 299 910 508 "involved accident"
+25 8 "car" 890 355 1001 492
+25 10 "car" 612 342 672 400
+25 11 "person" 1031 312 1070 441
+25 12 "person" 1088 313 1125 437
+25 13 "car" 661 348 752 428
+26 1 "car" 489 337 632 458 "involved accident"
+26 2 "motorbike" 768 426 919 617 "involved accident"
+26 4 "motorbike" 343 347 376 411
+26 5 "car" 402 351 462 399
+26 7 "person" 787 301 905 504 "involved accident"
+26 8 "car" 885 355 1015 496
+26 10 "car" 614 342 674 401
+26 11 "person" 1042 311 1081 445
+26 12 "person" 1099 313 1138 439
+26 13 "car" 663 348 757 430
+27 1 "car" 489 337 634 459 "involved accident"
+27 2 "motorbike" 764 424 913 611 "involved accident"
+27 4 "motorbike" 345 348 378 411
+27 5 "car" 405 351 464 399
+27 7 "person" 782 303 899 499 "involved accident"
+27 8 "car" 881 355 1030 499
+27 10 "car" 615 342 677 402
+27 11 "person" 1053 310 1092 448
+27 12 "person" 1110 313 1151 441
+27 13 "car" 666 348 762 431
+28 1 "car" 490 337 636 460 "involved accident"
+28 2 "motorbike" 759 423 908 604 "involved accident"
+28 4 "motorbike" 348 348 381 411
+28 5 "car" 407 351 466 399
+28 7 "person" 777 305 894 495 "involved accident"
+28 8 "car" 876 355 1044 503
+28 10 "car" 616 343 679 403
+28 11 "person" 1064 310 1102 452
+28 12 "person" 1120 312 1164 442
+28 13 "car" 669 348 767 433
+29 1 "car" 491 337 638 460 "involved accident"
+29 2 "motorbike" 754 421 902 598 "involved accident"
+29 4 "motorbike" 351 348 383 410
+29 5 "car" 410 351 469 398
+29 7 "person" 771 307 888 490 "involved accident"
+29 8 "car" 872 355 1059 506
+29 10 "car" 618 343 682 404
+29 11 "person" 1075 309 1113 455
+29 12 "person" 1131 312 1177 444
+29 13 "car" 672 348 772 435
+30 1 "car" 492 337 640 461 "involved accident"
+30 2 "motorbike" 749 420 897 591 "involved accident"
+30 4 "motorbike" 353 348 386 410
+30 5 "car" 412 351 471 398
+30 7 "person" 766 309 883 486 "involved accident"
+30 8 "car" 867 355 1073 510
+30 10 "car" 619 343 684 405
+30 11 "person" 1086 308 1124 459
+30 12 "person" 1142 312 1190 446
+30 13 "car" 675 348 771 435
+31 1 "car" 493 338 642 462 "involved accident"
+31 2 "motorbike" 745 419 892 585 "involved accident"
+31 4 "motorbike" 356 349 389 410
+31 5 "car" 415 351 473 398
+31 7 "person" 761 311 878 482 "involved accident"
+31 8 "car" 863 356 1088 514
+31 10 "car" 621 344 687 406
+31 11 "person" 1097 308 1135 463
+31 12 "person" 1153 312 1203 448
+31 13 "car" 678 349 770 435
+32 1 "car" 495 337 645 462 "involved accident"
+32 2 "motorbike" 744 420 891 582 "involved accident"
+32 4 "motorbike" 358 349 391 410
+32 5 "car" 417 351 475 398
+32 7 "person" 760 310 876 477 "involved accident"
+32 8 "car" 867 356 1106 520
+32 10 "car" 623 344 689 406
+32 11 "person" 1109 308 1147 463
+32 12 "person" 1165 313 1215 449
+32 13 "car" 681 349 769 436
+33 1 "car" 497 337 648 463 "involved accident"
+33 2 "motorbike" 744 421 890 579 "involved accident"
+33 4 "motorbike" 361 349 394 410
+33 5 "car" 420 351 477 398
+33 7 "person" 759 309 875 473 "involved accident"
+33 8 "car" 872 357 1124 526
+33 10 "car" 626 344 692 406
+33 11 "person" 1121 308 1159 463
+33 12 "person" 1177 315 1227 451
+33 13 "car" 685 350 768 436
+34 1 "car" 499 337 651 463 "involved accident"
+34 2 "motorbike" 744 423 889 576 "involved accident"
+34 4 "motorbike" 364 349 396 410
+34 5 "car" 422 351 479 398
+34 7 "person" 758 308 874 468 "involved accident"
+34 8 "car" 877 357 1143 532
+34 10 "car" 629 344 695 406
+34 11 "person" 1133 308 1171 463
+34 12 "person" 1189 316 1239 452
+34 13 "car" 688 350 767 437
+35 1 "car" 501 337 654 464 "involved accident"
+35 2 "motorbike" 743 424 888 574 "involved accident"
+35 4 "motorbike" 366 349 399 410
+35 5 "car" 425 351 481 398
+35 7 "person" 757 307 873 464 "involved accident"
+35 8 "car" 882 358 1161 538
+35 10 "car" 632 344 698 406
+35 11 "person" 1145 308 1183 463
+35 12 "person" 1201 318 1251 454
+35 13 "car" 691 351 766 437
+36 1 "car" 503 337 657 464 "involved accident"
+36 2 "motorbike" 743 426 887 571 "involved accident"
+36 4 "motorbike" 369 350 401 409
+36 5 "car" 427 352 484 397
+36 7 "person" 756 306 872 460 "involved accident"
+36 8 "car" 887 359 1180 544
+36 10 "car" 635 344 701 406
+36 11 "person" 1158 308 1196 463
+36 13 "car" 695 351 765 437
+37 1 "car" 505 337 661 465 "involved accident"
+37 2 "motorbike" 743 427 887 568 "involved accident"
+37 4 "motorbike" 371 350 404 409
+37 5 "car" 430 352 486 397
+37 7 "person" 755 306 871 457 "involved accident"
+37 8 "car" 899 359 1196 544
+37 10 "car" 638 344 704 406
+37 11 "person" 1171 308 1209 456
+37 13 "car" 698 352 764 438
+38 1 "car" 507 336 664 465 "involved accident"
+38 2 "motorbike" 743 429 886 565 "involved accident"
+38 4 "motorbike" 374 350 406 409
+38 5 "car" 432 352 488 397
+38 7 "person" 754 307 870 454 "involved accident"
+38 8 "car" 911 360 1213 545
+38 10 "car" 641 344 707 406
+38 11 "person" 1185 308 1223 449
+38 13 "car" 701 352 763 438
+39 1 "car" 509 336 667 466 "involved accident"
+39 2 "motorbike" 742 430 885 563 "involved accident"
+39 4 "motorbike" 377 350 409 409
+39 5 "car" 435 352 490 397
+39 7 "person" 754 307 870 451 "involved accident"
+39 8 "car" 923 361 1229 545
+39 10 "car" 644 344 710 406
+39 11 "person" 1199 309 1237 443
+39 13 "car" 705 353 762 439
+40 1 "car" 511 336 670 466 "involved accident"
+40 2 "motorbike" 742 432 884 560 "involved accident"
+40 4 "motorbike" 379 351 412 409
+40 5 "car" 437 352 492 397
+40 7 "person" 753 308 869 448 "involved accident"
+40 8 "car" 935 361 1246 546
+40 10 "car" 647 345 713 407
+40 11 "person" 1213 309 1250 436
+40 13 "car" 711 354 781 439
+41 1 "car" 513 336 673 467 "involved accident"
+41 2 "motorbike" 742 433 883 557 "involved accident"
+41 4 "motorbike" 382 351 414 409
+41 5 "car" 440 352 494 397
+41 7 "person" 752 308 868 445 "involved accident"
+41 8 "car" 947 362 1262 546
+41 10 "car" 650 346 716 408
+41 11 "person" 1227 309 1264 429
+41 13 "car" 717 355 800 440
+42 1 "car" 515 336 676 467 "involved accident"
+42 2 "motorbike" 742 435 883 555 "involved accident"
+42 4 "motorbike" 384 351 417 409
+42 5 "car" 442 352 496 397
+42 7 "person" 752 309 868 443 "involved accident"
+42 8 "car" 960 363 1279 547
+42 10 "car" 653 348 719 410
+42 13 "car" 724 356 819 441
+43 1 "car" 518 336 680 468 "involved accident"
+43 2 "motorbike" 745 433 883 552 "involved accident"
+43 4 "motorbike" 387 351 419 408
+43 5 "car" 445 352 499 396
+43 7 "person" 755 312 867 444 "involved accident"
+43 8 "car" 972 362 1279 560
+43 10 "car" 657 348 723 410
+43 13 "car" 730 357 838 442
+44 1 "car" 522 336 685 468 "involved accident"
+44 2 "motorbike" 749 431 884 549 "involved accident"
+44 4 "motorbike" 390 351 422 408
+44 5 "car" 447 352 501 396
+44 7 "person" 758 315 866 446 "involved accident"
+44 8 "car" 985 362 1279 574
+44 10 "car" 661 348 727 410
+44 13 "car" 736 358 857 443
+45 1 "car" 526 336 690 469 "involved accident"
+45 2 "motorbike" 752 430 884 546 "involved accident"
+45 4 "motorbike" 392 352 424 408
+45 5 "car" 450 352 503 396
+45 7 "person" 761 319 865 448 "involved accident"
+45 8 "car" 998 361 1279 588
+45 10 "car" 665 348 731 410
+45 13 "car" 743 359 877 444
+46 1 "car" 530 336 695 470 "involved accident"
+46 2 "motorbike" 756 428 885 543 "involved accident"
+46 4 "motorbike" 395 352 427 408
+46 5 "car" 452 352 505 396
+46 7 "person" 764 322 864 450 "involved accident"
+46 8 "car" 1011 361 1279 602
+46 10 "car" 670 348 736 410
+46 13 "car" 753 358 887 446
+47 1 "car" 534 336 700 471 "involved accident"
+47 2 "motorbike" 760 427 886 540 "involved accident"
+47 4 "motorbike" 397 352 429 408
+47 5 "car" 455 352 507 396
+47 7 "person" 767 326 863 452 "involved accident"
+47 8 "car" 1024 361 1279 616
+47 10 "car" 674 348 740 410
+47 13 "car" 764 358 897 448
+48 1 "car" 538 337 705 472 "involved accident"
+48 2 "motorbike" 763 426 886 538 "involved accident"
+48 4 "motorbike" 400 352 432 408
+48 5 "car" 457 352 509 396
+48 7 "person" 769 326 864 450 "involved accident"
+48 8 "car" 1026 361 1278 613
+48 10 "car" 678 348 744 410
+48 13 "car" 774 358 908 450
+49 1 "car" 542 337 710 473 "involved accident"
+49 2 "motorbike" 767 426 886 536 "involved accident"
+49 4 "motorbike" 403 353 435 408
+49 5 "car" 460 353 512 396
+49 7 "person" 772 326 865 449 "involved accident"
+49 8 "car" 1029 361 1278 611
+49 10 "car" 682 349 748 411
+49 13 "car" 785 358 918 453
+50 1 "car" 546 337 715 473 "involved accident"
+50 2 "motorbike" 770 426 886 535 "involved accident"
+50 4 "motorbike" 406 353 438 407
+50 5 "car" 462 353 514 395
+50 7 "person" 775 326 867 447 "involved accident"
+50 8 "car" 1032 361 1278 608
+50 10 "car" 687 349 753 411
+50 13 "car" 795 358 929 455
+51 1 "car" 550 337 720 474 "involved accident"
+51 2 "motorbike" 774 426 886 533 "involved accident"
+51 4 "motorbike" 410 353 442 407
+51 5 "car" 465 353 517 395
+51 7 "person" 778 327 868 446 "involved accident"
+51 8 "car" 1035 361 1278 606
+51 10 "car" 691 349 757 411
+51 13 "car" 806 358 939 457
+52 1 "car" 554 337 725 475 "involved accident"
+52 2 "motorbike" 777 426 886 532 "involved accident"
+52 4 "motorbike" 414 353 446 407
+52 5 "car" 468 353 519 395
+52 7 "person" 781 327 869 444 "involved accident"
+52 8 "car" 1038 361 1278 604
+52 10 "car" 695 349 761 411
+52 13 "car" 816 358 950 459
+53 1 "car" 558 338 731 476 "involved accident"
+53 2 "motorbike" 781 426 886 530 "involved accident"
+53 4 "motorbike" 417 354 449 407
+53 5 "car" 471 353 522 395
+53 7 "person" 784 327 871 443 "involved accident"
+53 8 "car" 1041 361 1278 601
+53 10 "car" 699 349 765 411
+53 13 "car" 827 358 960 462
+54 1 "car" 562 338 736 477 "involved accident"
+54 2 "motorbike" 785 426 886 528 "involved accident"
+54 4 "motorbike" 421 354 453 407
+54 5 "car" 474 353 525 394
+54 7 "person" 787 328 872 442 "involved accident"
+54 8 "car" 1044 361 1278 599
+54 10 "car" 704 349 770 411
+54 13 "car" 837 358 971 464
+55 1 "car" 566 338 741 478 "involved accident"
+55 2 "motorbike" 788 426 886 527 "involved accident"
+55 4 "motorbike" 425 354 457 407
+55 5 "car" 477 353 527 394
+55 7 "person" 790 328 873 440 "involved accident"
+55 8 "car" 1047 362 1278 597
+55 10 "car" 708 350 774 412
+55 13 "car" 848 358 981 466
+56 1 "car" 570 338 746 479 "involved accident"
+56 2 "motorbike" 792 426 886 525 "involved accident"
+56 3 "car" 0 386 257 702
+56 4 "motorbike" 429 355 461 407
+56 5 "car" 480 353 530 394
+56 7 "person" 793 328 875 439 "involved accident"
+56 8 "car" 1049 362 1278 594
+56 10 "car" 712 350 778 412
+56 13 "car" 859 358 992 469
+57 1 "car" 574 338 751 479 "involved accident"
+57 2 "motorbike" 795 426 886 524 "involved accident"
+57 3 "car" 2 386 270 690
+57 4 "motorbike" 432 355 464 406
+57 5 "car" 483 353 533 394
+57 7 "person" 796 329 876 437 "involved accident"
+57 8 "car" 1052 362 1278 592
+57 10 "car" 717 350 783 412
+57 13 "car" 869 358 1002 471
+58 1 "car" 578 339 756 480 "involved accident"
+58 2 "motorbike" 799 426 886 522 "involved accident"
+58 3 "car" 4 386 284 678
+58 4 "motorbike" 435 355 467 406
+58 5 "car" 486 353 535 394
+58 7 "person" 799 329 878 436 "involved accident"
+58 8 "car" 1055 362 1278 589
+58 10 "car" 721 350 787 412
+58 13 "car" 880 358 1013 474
+59 1 "car" 582 339 761 481 "involved accident"
+59 2 "motorbike" 803 426 886 521 "involved accident"
+59 3 "car" 7 387 297 666
+59 4 "motorbike" 438 355 470 405
+59 5 "car" 489 353 538 393
+59 7 "person" 802 329 879 434 "involved accident"
+59 8 "car" 1058 362 1278 587
+59 10 "car" 725 350 791 412
+59 13 "car" 891 358 1024 477
+60 1 "car" 586 339 766 482 "involved accident"
+60 2 "motorbike" 806 423 886 519 "involved accident"
+60 3 "car" 9 387 311 654
+60 4 "motorbike" 441 355 473 405
+60 5 "car" 492 353 540 393
+60 7 "person" 805 330 880 433 "involved accident"
+60 8 "car" 1061 362 1278 585
+60 10 "car" 729 350 795 412
+60 13 "car" 891 358 1046 483
+61 1 "car" 590 339 771 483 "involved accident"
+61 2 "motorbike" 810 420 886 517 "involved accident"
+61 3 "car" 11 388 324 642
+61 4 "motorbike" 444 355 476 405
+61 5 "car" 495 353 543 393
+61 7 "person" 808 330 882 432 "involved accident"
+61 8 "car" 1064 362 1278 582
+61 10 "car" 734 350 800 412
+61 13 "car" 891 358 1068 490
+62 1 "car" 594 339 776 484 "involved accident"
+62 2 "motorbike" 814 417 886 515 "involved accident"
+62 3 "car" 14 388 338 630
+62 4 "motorbike" 447 355 479 404
+62 5 "car" 498 353 546 393
+62 7 "person" 811 330 883 430 "involved accident"
+62 8 "car" 1067 362 1278 580
+62 10 "car" 738 351 804 413
+62 13 "car" 891 358 1090 496
+63 1 "car" 598 340 782 485 "involved accident"
+63 2 "motorbike" 818 415 887 514 "involved accident"
+63 3 "car" 16 389 351 618
+63 4 "motorbike" 450 355 482 404
+63 5 "car" 501 353 548 392
+63 7 "person" 814 331 884 429 "involved accident"
+63 10 "car" 742 351 808 413
+63 13 "car" 891 358 1113 503
+64 1 "car" 601 340 785 489 "involved accident"
+64 2 "motorbike" 821 416 890 511 "involved accident"
+64 3 "car" 18 389 365 606
+64 4 "motorbike" 453 355 485 404
+64 5 "car" 504 353 551 392
+64 7 "person" 817 331 886 427 "involved accident"
+64 10 "car" 746 351 812 413
+64 13 "car" 897 357 1129 507
+65 1 "car" 605 341 789 493 "involved accident"
+65 2 "motorbike" 824 417 893 509 "involved accident"
+65 3 "car" 21 390 379 595
+65 4 "motorbike" 456 355 488 403
+65 5 "car" 507 353 554 392
+65 7 "person" 820 331 887 426 "involved accident"
+65 10 "car" 751 351 817 413
+65 13 "car" 903 357 1146 511
+66 1 "car" 609 342 793 498 "involved accident"
+66 2 "motorbike" 828 418 897 507 "involved accident"
+66 3 "car" 39 388 387 589
+66 4 "motorbike" 460 355 492 403
+66 5 "car" 510 353 556 392
+66 7 "person" 823 332 889 425 "involved accident"
+66 10 "car" 755 351 821 413
+66 13 "car" 909 356 1162 515
+67 1 "car" 617 341 801 500 "involved accident"
+67 2 "motorbike" 831 417 900 504 "involved accident"
+67 3 "car" 58 386 396 583
+67 4 "motorbike" 463 355 495 403
+67 5 "car" 513 353 559 392
+67 7 "person" 827 331 893 424 "involved accident"
+67 10 "car" 759 351 825 413
+67 13 "car" 915 356 1179 519
+68 1 "car" 625 340 809 503 "involved accident"
+68 2 "motorbike" 835 417 903 501 "involved accident"
+68 3 "car" 76 385 405 578
+68 4 "motorbike" 466 355 498 402
+68 5 "car" 516 353 561 391
+68 7 "person" 831 330 897 423 "involved accident"
+68 10 "car" 764 352 830 414
+68 13 "car" 921 355 1195 523
+69 1 "car" 633 339 817 506 "involved accident"
+69 2 "motorbike" 838 416 907 499 "involved accident"
+69 3 "car" 95 383 413 572
+69 4 "motorbike" 469 355 501 402
+69 5 "car" 519 353 564 391
+69 7 "person" 835 329 901 422 "involved accident"
+69 10 "car" 770 351 836 413
+69 13 "car" 927 355 1212 527
+70 1 "car" 641 338 825 509 "involved accident"
+70 2 "motorbike" 842 416 910 496 "involved accident"
+70 3 "car" 113 382 422 566
+70 4 "motorbike" 472 355 504 402
+70 5 "car" 522 353 567 391
+70 7 "person" 840 328 906 421 "involved accident"
+70 10 "car" 777 351 843 413
+70 13 "car" 933 354 1228 531
+71 1 "car" 650 337 833 512 "involved accident"
+71 2 "motorbike" 845 415 914 494 "involved accident"
+71 3 "car" 132 380 431 561
+71 4 "motorbike" 475 355 507 401
+71 5 "car" 525 353 569 391
+71 7 "person" 844 327 910 420 "involved accident"
+71 10 "car" 783 351 849 413
+71 13 "car" 939 354 1245 535
+72 1 "car" 658 336 841 515 "involved accident"
+72 2 "motorbike" 849 415 917 491 "involved accident"
+72 3 "car" 150 378 439 555
+72 4 "motorbike" 478 355 510 401
+72 5 "car" 528 353 572 390
+72 7 "person" 848 326 914 419 "involved accident"
+72 10 "car" 790 351 856 413
+72 13 "car" 945 353 1261 539
+73 1 "car" 666 335 849 518 "involved accident"
+73 2 "motorbike" 853 415 921 489 "involved accident"
+73 3 "car" 169 377 448 549
+73 4 "motorbike" 481 355 513 401
+73 5 "car" 531 353 575 390
+73 7 "person" 853 326 919 419 "involved accident"
+73 10 "car" 796 351 862 413
+73 13 "car" 952 353 1278 543
+74 1 "car" 674 334 857 521 "involved accident"
+74 2 "motorbike" 863 413 931 488 "involved accident"
+74 3 "car" 187 375 457 544
+74 4 "motorbike" 484 355 516 400
+74 5 "car" 534 353 577 390
+74 7 "person" 862 326 928 419 "involved accident"
+74 10 "car" 803 351 869 413
+74 13 "car" 966 353 1278 543
+75 1 "car" 683 334 866 524 "involved accident"
+75 2 "motorbike" 873 411 941 487 "involved accident"
+75 3 "car" 206 374 466 538
+75 4 "motorbike" 487 355 519 400
+75 5 "car" 537 353 580 390
+75 7 "person" 871 326 937 419 "involved accident"
+75 10 "car" 809 351 875 413
+75 13 "car" 980 354 1278 544
+76 1 "car" 693 334 881 524 "involved accident"
+76 2 "motorbike" 883 409 951 487 "involved accident"
+76 3 "car" 224 372 474 532
+76 4 "motorbike" 491 356 523 400
+76 5 "car" 540 354 583 390
+76 6 "motorbike" 680 347 700 398
+76 7 "person" 880 326 946 419 "involved accident"
+76 10 "car" 816 351 882 413
+76 13 "car" 995 354 1278 544
+77 1 "car" 703 335 896 525 "involved accident"
+77 2 "motorbike" 893 407 961 486 "involved accident"
+77 3 "car" 243 370 483 527
+77 4 "motorbike" 494 355 526 399
+77 5 "car" 542 354 585 390
+77 6 "motorbike" 683 347 703 398
+77 7 "person" 889 326 955 419 "involved accident"
+77 10 "car" 823 351 889 413
+77 13 "car" 1009 355 1278 545
+78 1 "car" 713 336 911 526 "involved accident"
+78 2 "motorbike" 903 405 971 486 "involved accident"
+78 3 "car" 261 369 492 521
+78 4 "motorbike" 497 355 529 399
+78 5 "car" 545 354 588 390
+78 6 "motorbike" 687 347 707 398
+78 7 "person" 898 326 964 419 "involved accident"
+78 10 "car" 829 351 895 413
+78 13 "car" 1024 355 1278 545
+79 1 "car" 723 337 926 527 "involved accident"
+79 2 "motorbike" 913 403 981 485 "involved accident"
+79 3 "car" 280 367 500 515
+79 4 "motorbike" 500 355 532 399
+79 5 "car" 548 354 591 390
+79 6 "motorbike" 691 348 711 399
+79 7 "person" 907 326 973 419 "involved accident"
+79 10 "car" 836 351 902 413
+79 13 "car" 1038 356 1278 546
+80 1 "car" 733 338 941 527 "involved accident"
+80 2 "motorbike" 923 401 991 485 "involved accident"
+80 3 "car" 298 366 509 510
+80 4 "motorbike" 503 355 535 399
+80 5 "car" 550 354 593 390
+80 6 "motorbike" 695 348 715 399
+80 7 "person" 916 326 982 419 "involved accident"
+80 10 "car" 842 351 908 413
+80 13 "car" 1053 356 1278 546
+81 1 "car" 743 339 956 528 "involved accident"
+81 2 "motorbike" 933 399 1001 484 "involved accident"
+81 3 "car" 317 364 518 504
+81 4 "motorbike" 506 354 538 398
+81 5 "car" 553 354 596 390
+81 6 "motorbike" 699 348 719 399
+81 7 "person" 925 326 991 419 "involved accident"
+81 10 "car" 849 351 915 413
+81 13 "car" 1067 357 1278 547
+82 1 "car" 753 340 971 529 "involved accident"
+82 3 "car" 336 363 527 499
+82 4 "motorbike" 509 354 541 398
+82 5 "car" 556 354 599 390
+82 6 "motorbike" 703 349 723 400
+82 10 "car" 855 351 921 413
+82 13 "car" 1082 358 1279 548
+83 1 "car" 764 341 986 530 "involved accident"
+83 3 "car" 346 362 534 496
+83 4 "motorbike" 512 354 544 398
+83 5 "car" 558 354 601 390
+83 6 "motorbike" 706 348 726 399
+83 10 "car" 862 351 928 413
+83 13 "car" 1101 362 1279 552
+84 1 "car" 777 339 999 535 "involved accident"
+84 3 "car" 357 361 541 493
+84 4 "motorbike" 515 354 547 398
+84 5 "car" 561 354 604 390
+84 6 "motorbike" 709 348 729 399
+84 10 "car" 868 351 934 413
+84 13 "car" 1120 366 1279 556
+85 1 "car" 790 337 1012 540 "involved accident"
+85 3 "car" 368 361 548 490
+85 4 "motorbike" 518 353 550 397
+85 5 "car" 564 354 607 390
+85 6 "motorbike" 712 348 732 399
+85 10 "car" 875 351 941 413
+85 13 "car" 1139 370 1279 560
+86 1 "car" 804 335 1025 546 "involved accident"
+86 3 "car" 379 360 555 487
+86 4 "motorbike" 521 353 553 397
+86 5 "car" 566 354 609 390
+86 6 "motorbike" 715 348 735 399
+86 10 "car" 882 351 948 413
+87 1 "car" 817 333 1038 551 "involved accident"
+87 3 "car" 390 360 562 484
+87 4 "motorbike" 524 353 556 397
+87 5 "car" 569 354 612 390
+87 6 "motorbike" 718 348 738 399
+87 10 "car" 886 350 957 416
+88 1 "car" 830 331 1051 556 "involved accident"
+88 3 "car" 401 359 569 482
+88 4 "motorbike" 527 353 559 397
+88 5 "car" 572 354 615 390
+88 6 "motorbike" 721 348 741 399
+88 10 "car" 890 349 967 420
+89 1 "car" 844 330 1065 562 "involved accident"
+89 3 "car" 412 359 576 479
+89 4 "motorbike" 530 352 562 396
+89 5 "car" 574 354 617 390
+89 6 "motorbike" 724 347 744 398
+89 10 "car" 894 348 976 424
+90 1 "car" 862 327 1094 571 "involved accident"
+90 3 "car" 423 358 583 476
+90 4 "motorbike" 533 352 565 396
+90 5 "car" 577 354 620 390
+90 6 "motorbike" 727 347 747 398
+90 10 "car" 898 347 986 428
+91 1 "car" 881 325 1123 581 "involved accident"
+91 3 "car" 434 358 590 473
+91 4 "motorbike" 536 352 568 396
+91 5 "car" 580 354 623 390
+91 6 "motorbike" 730 347 750 398
+91 10 "car" 902 346 995 431
+92 1 "car" 899 323 1153 590 "involved accident"
+92 3 "car" 444 357 597 470
+92 4 "motorbike" 540 352 572 396
+92 5 "car" 582 354 625 390
+92 6 "motorbike" 733 347 753 398
+92 10 "car" 906 345 1005 435
+93 1 "car" 918 320 1182 600 "involved accident"
+93 3 "car" 455 356 604 467
+93 4 "motorbike" 543 351 575 395
+93 5 "car" 585 354 628 390
+93 6 "motorbike" 736 347 756 398
+93 10 "car" 911 344 1015 439
+94 1 "car" 936 318 1211 609 "involved accident"
+94 3 "car" 466 356 611 465
+94 4 "motorbike" 546 351 578 395
+94 5 "car" 588 354 631 390
+94 6 "motorbike" 739 347 759 398
+94 10 "car" 915 343 1024 443
+95 1 "car" 955 316 1241 619 "involved accident"
+95 3 "car" 477 355 618 462
+95 4 "motorbike" 549 351 581 395
+95 5 "car" 590 354 633 390
+95 6 "motorbike" 742 346 762 397
+95 10 "car" 919 342 1034 447
+96 1 "car" 973 313 1246 628 "involved accident"
+96 3 "car" 488 355 625 459
+96 4 "motorbike" 552 351 584 395
+96 5 "car" 593 354 636 390
+96 6 "motorbike" 745 346 765 397
+96 10 "car" 923 341 1043 450
+97 1 "car" 992 311 1252 638 "involved accident"
+97 3 "car" 499 354 632 456
+97 4 "motorbike" 555 350 587 394
+97 5 "car" 596 354 639 390
+97 6 "motorbike" 748 346 768 397
+97 10 "car" 927 340 1053 454
+98 1 "car" 1011 309 1257 648 "involved accident"
+98 3 "car" 510 354 639 453
+98 4 "motorbike" 558 350 590 394
+98 5 "car" 598 354 641 390
+98 6 "motorbike" 751 346 771 397
+98 10 "car" 931 339 1062 458
+99 1 "car" 1030 307 1263 658 "involved accident"
+99 3 "car" 521 353 646 450
+99 4 "motorbike" 561 350 593 394
+99 5 "car" 601 354 644 390
+99 6 "motorbike" 754 346 774 397
+99 10 "car" 935 338 1072 462
+100 1 "car" 1049 305 1269 668 "involved accident"
+100 3 "car" 532 353 654 448
+100 4 "motorbike" 565 350 597 394
+100 5 "car" 604 354 647 390
+100 6 "motorbike" 757 346 777 397
+100 8 "car" 715 353 838 453
+100 9 "car" 1067 313 1229 508
+100 10 "car" 940 338 1082 466

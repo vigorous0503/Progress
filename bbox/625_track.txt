@@ -1,0 +1,623 @@
+1 1 "motorbike" 864 433 937 527
+1 2 "person" 666 418 740 531
+1 3 "motorbike" 655 486 786 577
+1 4 "motorbike" 603 425 686 545
+1 7 "motorbike" 222 432 277 562
+1 11 "motorbike" 1193 415 1244 504
+1 12 "motorbike" 1095 416 1161 520
+1 13 "motorbike" 936 435 1004 521
+1 14 "motorbike" 1043 427 1100 511
+1 15 "motorbike" 997 428 1047 513
+2 1 "motorbike" 864 433 937 527
+2 2 "person" 672 418 746 531
+2 3 "motorbike" 660 485 791 576
+2 4 "motorbike" 610 424 693 544
+2 7 "motorbike" 216 433 271 563
+2 11 "motorbike" 1195 415 1246 504
+2 12 "motorbike" 1098 415 1164 519
+2 13 "motorbike" 938 434 1006 520
+2 14 "motorbike" 1045 427 1102 511
+2 15 "motorbike" 998 428 1048 513
+3 1 "motorbike" 864 433 937 527
+3 2 "person" 678 418 752 531
+3 3 "motorbike" 665 484 796 575
+3 4 "motorbike" 618 424 701 544
+3 7 "motorbike" 210 434 265 564
+3 11 "motorbike" 1198 415 1249 504
+3 12 "motorbike" 1101 415 1167 519
+3 13 "motorbike" 940 433 1008 519
+3 14 "motorbike" 1047 427 1104 511
+3 15 "motorbike" 1000 429 1050 514
+4 1 "motorbike" 864 433 937 527
+4 2 "person" 684 419 758 532
+4 3 "motorbike" 671 484 802 575
+4 4 "motorbike" 626 424 709 544
+4 7 "motorbike" 204 435 259 565
+4 11 "motorbike" 1201 415 1252 504
+4 12 "motorbike" 1104 414 1170 518
+4 13 "motorbike" 942 433 1010 519
+4 14 "motorbike" 1049 427 1106 511
+4 15 "motorbike" 1002 429 1052 514
+5 1 "motorbike" 864 433 937 527
+5 2 "person" 696 418 770 528
+5 3 "motorbike" 685 485 820 578
+5 4 "motorbike" 637 424 721 545
+5 7 "motorbike" 194 435 249 565
+5 11 "motorbike" 1204 415 1255 504
+5 12 "motorbike" 1107 414 1173 518
+5 13 "motorbike" 944 432 1012 518
+5 14 "motorbike" 1051 427 1108 511
+5 15 "motorbike" 1004 430 1054 515
+6 1 "motorbike" 864 433 937 527
+6 2 "person" 709 418 782 525
+6 3 "motorbike" 699 486 838 582
+6 4 "motorbike" 648 424 734 547
+6 7 "motorbike" 185 436 240 566
+6 11 "motorbike" 1207 415 1258 504
+6 12 "motorbike" 1111 413 1177 517
+6 13 "motorbike" 946 432 1014 518
+6 14 "motorbike" 1053 428 1110 512
+6 15 "motorbike" 1005 430 1055 515
+7 1 "motorbike" 864 433 937 527
+7 2 "person" 721 418 794 521
+7 3 "motorbike" 713 488 856 585
+7 4 "motorbike" 659 424 747 549
+7 7 "motorbike" 175 436 230 566
+7 11 "motorbike" 1210 415 1261 504
+7 12 "motorbike" 1114 413 1180 517
+7 13 "motorbike" 948 431 1016 517
+7 14 "motorbike" 1055 428 1112 512
+7 15 "motorbike" 1007 431 1057 516
+8 1 "motorbike" 864 433 937 527
+8 2 "person" 734 418 807 518
+8 3 "motorbike" 727 489 874 589
+8 4 "motorbike" 670 424 760 551
+8 7 "motorbike" 166 437 221 567
+8 11 "motorbike" 1213 415 1264 504
+8 12 "motorbike" 1117 412 1183 516
+8 13 "motorbike" 950 431 1018 517
+8 14 "motorbike" 1057 428 1114 512
+8 15 "motorbike" 1009 431 1059 516
+9 1 "motorbike" 864 433 937 527
+9 2 "person" 750 416 823 517
+9 3 "motorbike" 741 491 893 593
+9 4 "motorbike" 681 424 773 553
+9 7 "motorbike" 157 438 212 568
+9 11 "motorbike" 1216 415 1267 504
+9 12 "motorbike" 1120 412 1186 516
+9 13 "motorbike" 952 430 1020 516
+9 14 "motorbike" 1059 428 1116 512
+9 15 "motorbike" 1011 432 1061 517
+10 1 "motorbike" 864 433 937 527
+10 2 "person" 767 414 840 517
+10 3 "motorbike" 755 492 911 596
+10 4 "motorbike" 692 424 786 555
+10 7 "motorbike" 147 438 202 568
+10 11 "motorbike" 1219 416 1270 505
+10 12 "motorbike" 1124 412 1190 516
+10 13 "motorbike" 955 430 1023 516
+10 14 "motorbike" 1062 429 1119 513
+10 15 "motorbike" 1013 433 1063 518
+11 1 "motorbike" 864 433 937 527
+11 2 "person" 784 413 857 517
+11 3 "motorbike" 770 494 929 600
+11 4 "motorbike" 704 425 799 557
+11 7 "motorbike" 138 439 193 569
+11 11 "motorbike" 1224 415 1271 504
+11 12 "motorbike" 1128 412 1194 516
+11 13 "motorbike" 958 429 1026 515
+11 14 "motorbike" 1065 429 1122 513
+11 15 "motorbike" 1016 433 1066 518
+12 2 "person" 800 411 874 516
+12 3 "motorbike" 784 495 947 604
+12 4 "motorbike" 715 425 811 559
+12 7 "motorbike" 128 439 183 569
+12 11 "motorbike" 1229 414 1273 503
+12 12 "motorbike" 1132 413 1198 517
+12 13 "motorbike" 961 429 1029 515
+12 14 "motorbike" 1068 429 1125 513
+12 15 "motorbike" 1019 433 1069 518
+13 2 "person" 817 410 891 516
+13 3 "motorbike" 798 496 965 607
+13 4 "motorbike" 726 425 824 561
+13 7 "motorbike" 119 440 174 570
+13 11 "motorbike" 1235 414 1274 503
+13 12 "motorbike" 1136 414 1202 518
+13 13 "motorbike" 964 429 1032 515
+13 14 "motorbike" 1071 429 1128 513
+13 15 "motorbike" 1022 433 1072 518
+14 2 "person" 834 408 907 516
+14 3 "motorbike" 812 498 984 611
+14 4 "motorbike" 737 425 837 563
+14 7 "motorbike" 110 441 165 571
+14 11 "motorbike" 1240 413 1276 502
+14 12 "motorbike" 1140 414 1206 518
+14 13 "motorbike" 967 428 1035 514
+14 14 "motorbike" 1074 429 1131 513
+14 15 "motorbike" 1025 433 1075 518
+15 2 "person" 850 406 924 515
+15 3 "motorbike" 826 499 1002 615
+15 4 "motorbike" 748 425 850 565
+15 7 "motorbike" 100 441 155 571
+15 11 "motorbike" 1245 412 1277 501
+15 12 "motorbike" 1145 415 1211 519
+15 13 "motorbike" 970 428 1038 514
+15 14 "motorbike" 1078 430 1135 514
+15 15 "motorbike" 1028 433 1078 518
+16 2 "person" 867 405 941 515
+16 3 "motorbike" 840 501 1020 618
+16 4 "motorbike" 759 425 863 567
+16 7 "motorbike" 91 442 146 572
+16 12 "motorbike" 1149 416 1215 520
+16 13 "motorbike" 973 428 1041 514
+16 14 "motorbike" 1081 430 1138 514
+16 15 "motorbike" 1031 433 1081 518
+17 2 "person" 884 403 958 515
+17 3 "motorbike" 854 502 1038 622
+17 4 "motorbike" 770 425 876 569
+17 7 "motorbike" 81 442 136 572
+17 12 "motorbike" 1153 416 1219 520
+17 13 "motorbike" 976 427 1044 513
+17 14 "motorbike" 1084 430 1141 514
+17 15 "motorbike" 1034 433 1084 518
+18 2 "person" 901 402 975 515
+18 3 "motorbike" 869 504 1057 626
+18 4 "motorbike" 782 426 889 571
+18 7 "motorbike" 72 443 127 573
+18 8 "car" 232 463 279 512
+18 12 "motorbike" 1157 417 1223 521
+18 13 "motorbike" 979 427 1047 513
+18 14 "motorbike" 1087 430 1144 514
+18 15 "motorbike" 1037 433 1087 518
+19 2 "person" 932 399 1008 517
+19 3 "motorbike" 896 507 1081 629
+19 4 "motorbike" 809 424 921 574
+19 7 "motorbike" 63 444 118 574
+19 8 "car" 231 462 278 511
+19 12 "motorbike" 1162 418 1228 522
+19 13 "motorbike" 982 427 1050 513
+19 14 "motorbike" 1091 431 1148 515
+19 15 "motorbike" 1041 433 1091 518
+20 2 "person" 964 397 1042 520
+20 3 "motorbike" 924 510 1106 632
+20 4 "motorbike" 837 422 953 577
+20 7 "motorbike" 50 449 105 579
+20 8 "car" 231 461 278 511
+20 12 "motorbike" 1169 419 1235 523
+20 13 "motorbike" 985 427 1053 513
+20 14 "motorbike" 1097 429 1154 513
+20 15 "motorbike" 1041 433 1091 518
+21 2 "person" 996 394 1076 523
+21 3 "motorbike" 952 513 1131 635
+21 4 "motorbike" 864 421 986 580
+21 7 "motorbike" 37 454 92 584
+21 8 "car" 230 461 278 511
+21 12 "motorbike" 1176 420 1242 524
+21 13 "motorbike" 990 428 1060 514
+21 14 "motorbike" 1104 428 1161 512
+21 15 "motorbike" 1041 433 1091 518
+22 2 "person" 1028 392 1110 526
+22 3 "motorbike" 979 516 1155 638
+22 4 "motorbike" 892 419 1018 583
+22 7 "motorbike" 25 459 79 589
+22 8 "car" 230 460 278 511
+22 12 "motorbike" 1183 422 1249 526
+22 13 "motorbike" 995 430 1067 516
+22 14 "motorbike" 1111 427 1168 511
+22 15 "motorbike" 1041 433 1091 518
+23 2 "person" 1060 389 1143 529
+23 3 "motorbike" 1007 520 1180 642
+23 4 "motorbike" 919 418 1051 587
+23 7 "motorbike" 12 464 66 594
+23 8 "car" 229 460 278 511
+23 12 "motorbike" 1188 420 1254 524
+23 13 "motorbike" 1000 432 1074 517
+23 14 "motorbike" 1111 427 1168 511
+23 15 "motorbike" 1049 432 1099 517
+24 2 "person" 1092 387 1177 532
+24 3 "motorbike" 1035 523 1205 645
+24 4 "motorbike" 947 416 1083 590
+24 8 "car" 229 459 278 511
+24 12 "motorbike" 1194 418 1260 522
+24 13 "motorbike" 1005 433 1081 519
+24 14 "motorbike" 1111 427 1168 511
+24 15 "motorbike" 1058 432 1108 517
+25 2 "person" 1124 384 1211 535
+25 3 "motorbike" 1062 526 1229 648
+25 4 "motorbike" 974 415 1116 593
+25 8 "car" 228 459 278 511
+25 12 "motorbike" 1199 417 1265 521
+25 13 "motorbike" 1010 435 1088 521
+25 15 "motorbike" 1067 431 1117 516
+26 2 "person" 1156 382 1245 538
+26 3 "motorbike" 1090 529 1254 651
+26 4 "motorbike" 1002 413 1148 596
+26 8 "car" 228 458 278 511
+26 12 "motorbike" 1205 415 1271 519
+26 13 "motorbike" 1015 437 1095 522
+26 15 "motorbike" 1076 431 1126 516
+27 1 "motorbike" 892 442 965 536
+27 8 "car" 227 458 278 511
+27 13 "motorbike" 1020 438 1102 524
+27 15 "motorbike" 1084 431 1134 516
+28 1 "motorbike" 895 439 968 536
+28 8 "car" 227 457 278 511
+28 13 "motorbike" 1025 440 1109 525
+28 15 "motorbike" 1093 430 1143 515
+29 1 "motorbike" 898 437 971 536
+29 8 "car" 226 457 278 511
+29 13 "motorbike" 1030 442 1116 527
+29 15 "motorbike" 1102 430 1152 515
+30 1 "motorbike" 901 435 974 537
+30 8 "car" 226 456 278 511
+30 13 "motorbike" 1036 444 1124 529
+31 1 "motorbike" 904 433 977 537
+31 8 "car" 225 456 278 511
+31 13 "motorbike" 1042 442 1130 530
+32 1 "motorbike" 907 431 980 538
+32 8 "car" 225 455 278 511
+32 13 "motorbike" 1048 440 1136 531
+33 1 "motorbike" 910 429 983 538
+33 8 "car" 224 455 278 511
+33 13 "motorbike" 1054 438 1142 532
+34 1 "motorbike" 914 427 986 539
+34 8 "car" 224 454 278 511
+34 9 "motorbike" 389 467 446 522
+34 13 "motorbike" 1060 436 1148 533
+35 1 "motorbike" 918 426 993 540
+35 8 "car" 223 454 278 511
+35 9 "motorbike" 385 466 442 521
+35 13 "motorbike" 1066 434 1154 534
+36 1 "motorbike" 922 425 1001 542
+36 8 "car" 223 453 278 511
+36 9 "motorbike" 381 466 438 521
+36 13 "motorbike" 1072 432 1160 535
+37 1 "motorbike" 926 424 1009 544
+37 8 "car" 222 453 278 511
+37 9 "motorbike" 378 465 435 520
+37 13 "motorbike" 1078 430 1166 536
+38 1 "motorbike" 931 423 1016 545
+38 8 "car" 222 452 278 511
+38 9 "motorbike" 374 465 431 520
+38 13 "motorbike" 1085 429 1172 538
+39 1 "motorbike" 935 422 1024 547
+39 8 "car" 222 451 278 511
+39 9 "motorbike" 371 464 428 519
+39 13 "motorbike" 1094 426 1181 539
+40 1 "motorbike" 939 421 1032 549
+40 8 "car" 221 451 278 511
+40 9 "motorbike" 367 464 424 519
+40 13 "motorbike" 1103 424 1190 541
+41 1 "motorbike" 944 420 1039 550
+41 8 "car" 221 450 278 511
+41 9 "motorbike" 364 464 421 519
+41 13 "motorbike" 1113 422 1199 542
+42 1 "motorbike" 948 420 1047 552
+42 8 "car" 220 450 278 511
+42 9 "motorbike" 360 463 417 518
+42 13 "motorbike" 1122 420 1209 544
+43 1 "motorbike" 952 419 1055 554
+43 8 "car" 220 449 278 511
+43 9 "motorbike" 357 463 414 518
+43 13 "motorbike" 1132 418 1218 545
+44 1 "motorbike" 956 418 1063 555
+44 8 "car" 219 449 278 511
+44 9 "motorbike" 353 462 410 517
+44 13 "motorbike" 1141 415 1227 547
+45 1 "motorbike" 961 417 1070 557
+45 8 "car" 219 448 278 511
+45 9 "motorbike" 350 462 407 517
+45 13 "motorbike" 1150 413 1237 548
+46 1 "motorbike" 965 416 1078 559
+46 8 "car" 218 448 278 511
+46 9 "motorbike" 346 462 403 517
+46 13 "motorbike" 1160 411 1246 550
+47 1 "motorbike" 969 415 1086 560
+47 8 "car" 218 447 278 511
+47 9 "motorbike" 342 461 399 516
+47 13 "motorbike" 1169 409 1255 551
+48 1 "motorbike" 974 414 1093 562
+48 8 "car" 217 447 278 511
+48 9 "motorbike" 339 461 396 516
+48 13 "motorbike" 1179 407 1265 553
+49 1 "motorbike" 978 413 1101 564
+49 8 "car" 217 446 278 511
+49 9 "motorbike" 335 460 392 515
+49 13 "motorbike" 1192 405 1269 551
+50 1 "motorbike" 982 413 1109 565
+50 8 "car" 216 446 278 511
+50 9 "motorbike" 332 460 389 515
+50 13 "motorbike" 1205 403 1274 549
+51 1 "motorbike" 986 412 1117 567
+51 8 "car" 216 445 278 511
+51 9 "motorbike" 328 459 385 514
+52 1 "motorbike" 991 411 1124 569
+52 8 "car" 215 445 278 511
+52 9 "motorbike" 325 459 382 514
+52 16 "motorbike" 719 433 779 505
+52 17 "motorbike" 621 451 666 511
+52 18 "motorbike" 671 439 718 507
+53 1 "motorbike" 995 410 1132 570
+53 8 "car" 215 444 278 511
+53 9 "motorbike" 321 459 378 514
+53 16 "motorbike" 724 433 784 505
+53 17 "motorbike" 624 451 669 511
+53 18 "motorbike" 675 439 722 507
+54 1 "motorbike" 999 409 1140 572
+54 8 "car" 214 444 278 511
+54 9 "motorbike" 318 458 375 513
+54 16 "motorbike" 729 434 789 506
+54 17 "motorbike" 628 451 673 511
+54 18 "motorbike" 679 439 726 507
+55 1 "motorbike" 1004 408 1147 574
+55 8 "car" 214 443 278 511
+55 9 "motorbike" 314 458 371 513
+55 16 "motorbike" 734 434 794 506
+55 17 "motorbike" 632 452 677 512
+55 18 "motorbike" 683 440 730 508
+56 1 "motorbike" 1008 407 1155 575
+56 8 "car" 213 443 278 511
+56 9 "motorbike" 311 457 368 512
+56 16 "motorbike" 739 435 799 507
+56 17 "motorbike" 636 452 681 512
+56 18 "motorbike" 687 440 734 508
+57 1 "motorbike" 1012 406 1163 577
+57 8 "car" 213 442 278 511
+57 9 "motorbike" 307 457 364 512
+57 16 "motorbike" 744 436 804 508
+57 17 "motorbike" 639 453 684 513
+57 18 "motorbike" 691 441 738 509
+58 1 "motorbike" 1017 406 1171 579
+58 8 "car" 213 442 278 511
+58 9 "motorbike" 304 457 361 512
+58 16 "motorbike" 749 436 809 508
+58 17 "motorbike" 643 453 688 513
+58 18 "motorbike" 696 441 743 509
+59 1 "motorbike" 1032 410 1186 583
+59 8 "car" 211 443 279 512
+59 9 "motorbike" 301 458 358 513
+59 16 "motorbike" 754 437 814 509
+59 17 "motorbike" 647 454 692 514
+59 18 "motorbike" 700 442 747 510
+60 1 "motorbike" 1048 414 1202 587
+60 8 "car" 210 445 280 513
+60 9 "motorbike" 299 460 356 515
+60 16 "motorbike" 759 437 819 509
+60 17 "motorbike" 651 454 696 514
+60 18 "motorbike" 704 442 751 510
+61 1 "motorbike" 1063 418 1217 591
+61 8 "car" 208 446 281 515
+61 9 "motorbike" 296 462 353 517
+61 16 "motorbike" 764 438 824 510
+61 17 "motorbike" 654 454 699 514
+61 18 "motorbike" 708 442 755 510
+62 1 "motorbike" 1079 422 1233 595
+62 8 "car" 207 448 282 516
+62 9 "motorbike" 294 464 351 519
+62 16 "motorbike" 769 439 829 511
+62 17 "motorbike" 658 455 703 515
+62 18 "motorbike" 712 443 759 511
+63 1 "motorbike" 1095 427 1249 600
+63 8 "car" 206 449 283 517
+63 9 "motorbike" 291 465 348 520
+63 16 "motorbike" 774 439 834 511
+63 17 "motorbike" 662 455 707 515
+63 18 "motorbike" 717 443 764 511
+64 1 "motorbike" 1109 427 1253 600
+64 8 "car" 204 451 284 519
+64 9 "motorbike" 289 467 346 522
+64 16 "motorbike" 779 440 839 512
+64 17 "motorbike" 666 456 711 516
+64 18 "motorbike" 721 444 768 512
+65 1 "motorbike" 1124 427 1257 600
+65 8 "car" 203 452 285 520
+65 9 "motorbike" 286 469 343 524
+65 16 "motorbike" 784 441 844 513
+65 17 "motorbike" 669 456 714 516
+65 18 "motorbike" 725 444 772 512
+66 1 "motorbike" 1139 428 1261 601
+66 8 "car" 202 454 286 522 "involved accident"
+66 9 "motorbike" 284 471 341 526 "involved accident"
+66 16 "motorbike" 789 441 849 513
+66 17 "motorbike" 673 457 718 517
+66 18 "motorbike" 729 445 776 513
+67 1 "motorbike" 1153 428 1266 601
+67 8 "car" 198 452 285 523 "involved accident"
+67 9 "motorbike" 286 472 343 527 "involved accident"
+67 16 "motorbike" 794 442 854 514
+67 17 "motorbike" 677 457 722 517
+67 18 "motorbike" 733 445 780 513
+68 1 "motorbike" 1168 429 1270 602
+68 8 "car" 194 450 285 524 "involved accident"
+68 9 "motorbike" 288 473 345 528 "involved accident"
+68 16 "motorbike" 799 442 859 514
+68 17 "motorbike" 681 457 726 517
+68 18 "motorbike" 738 445 785 513
+69 1 "motorbike" 1183 429 1274 602
+69 8 "car" 190 448 285 526 "involved accident"
+69 9 "motorbike" 290 475 347 529 "involved accident"
+69 16 "motorbike" 804 443 864 515
+69 17 "motorbike" 684 458 729 518
+69 18 "motorbike" 742 446 789 514
+70 8 "car" 186 446 285 527 "involved accident"
+70 9 "motorbike" 292 476 349 531 "involved accident"
+70 16 "motorbike" 809 444 869 516
+70 17 "motorbike" 688 458 733 518
+70 18 "motorbike" 746 446 793 514
+71 8 "car" 182 445 285 529 "involved accident"
+71 9 "motorbike" 294 477 351 532 "involved accident"
+71 16 "motorbike" 814 444 874 516
+71 17 "motorbike" 692 459 737 519
+71 18 "motorbike" 750 447 797 515
+72 8 "car" 178 443 284 530 "involved accident"
+72 9 "motorbike" 296 479 353 533 "involved accident"
+72 16 "motorbike" 819 445 879 517
+72 17 "motorbike" 696 459 741 519
+72 18 "motorbike" 754 447 801 515
+73 8 "car" 174 441 284 531 "involved accident"
+73 9 "motorbike" 298 480 355 535 "involved accident"
+73 16 "motorbike" 824 446 884 518
+73 17 "motorbike" 700 460 745 520
+73 18 "motorbike" 759 448 806 516
+74 8 "car" 170 439 284 533 "involved accident"
+74 9 "motorbike" 300 482 357 536 "involved accident"
+74 16 "motorbike" 833 445 895 520
+74 17 "motorbike" 706 459 754 521
+74 18 "motorbike" 768 446 816 518
+75 8 "car" 166 437 284 534 "involved accident"
+75 9 "motorbike" 302 483 359 537 "involved accident"
+75 16 "motorbike" 843 444 906 522
+75 17 "motorbike" 712 459 763 523
+75 18 "motorbike" 777 445 826 520
+76 8 "car" 162 436 284 536 "involved accident"
+76 9 "motorbike" 304 484 361 539 "involved accident"
+76 16 "motorbike" 853 443 918 524
+76 17 "motorbike" 718 458 772 525
+76 18 "motorbike" 786 444 837 523
+77 8 "car" 158 437 284 540 "involved accident"
+77 9 "motorbike" 306 486 363 540 "involved accident"
+77 16 "motorbike" 863 442 929 526
+77 17 "motorbike" 725 458 781 527
+77 18 "motorbike" 795 443 847 525
+78 8 "car" 155 439 284 544 "involved accident"
+78 9 "motorbike" 308 487 365 541 "involved accident"
+78 16 "motorbike" 873 441 940 528
+78 17 "motorbike" 731 457 790 529
+78 18 "motorbike" 804 442 858 528
+79 8 "car" 152 441 284 548 "involved accident"
+79 9 "motorbike" 310 489 368 543 "involved accident"
+79 10 "person" 286 470 315 533
+79 16 "motorbike" 883 440 952 530
+79 17 "motorbike" 737 457 799 531
+79 18 "motorbike" 813 441 868 530
+80 8 "car" 149 443 284 552 "involved accident"
+80 9 "motorbike" 317 493 375 547 "involved accident"
+80 10 "person" 286 476 315 539
+80 16 "motorbike" 893 439 963 532
+80 17 "motorbike" 744 456 808 533
+80 18 "motorbike" 822 440 879 533
+81 8 "car" 146 445 285 556 "involved accident"
+81 9 "motorbike" 325 497 383 551 "involved accident"
+81 10 "person" 286 482 315 545
+81 16 "motorbike" 903 438 975 534
+81 17 "motorbike" 750 456 818 535
+81 18 "motorbike" 831 439 889 535
+82 8 "car" 143 447 285 560 "involved accident"
+82 9 "motorbike" 333 502 391 556 "involved accident"
+82 10 "person" 287 488 316 551
+82 16 "motorbike" 913 437 986 536
+82 17 "motorbike" 756 456 827 537
+82 18 "motorbike" 840 438 899 537
+83 8 "car" 140 449 285 564 "involved accident"
+83 9 "motorbike" 340 506 398 560 "involved accident"
+83 10 "person" 287 494 316 557
+83 16 "motorbike" 923 436 997 538
+83 17 "motorbike" 763 455 836 539
+83 18 "motorbike" 849 437 910 540
+84 8 "car" 137 451 285 568 "involved accident"
+84 9 "motorbike" 348 510 406 564 "involved accident"
+84 10 "person" 287 500 316 563
+84 16 "motorbike" 933 435 1009 540
+84 17 "motorbike" 769 455 845 541
+84 18 "motorbike" 858 436 920 542
+85 8 "car" 134 453 286 572 "involved accident"
+85 9 "motorbike" 356 515 414 569 "involved accident"
+85 10 "person" 288 507 317 570 "involved accident"
+85 16 "motorbike" 943 434 1020 542
+85 17 "motorbike" 775 454 854 543
+85 18 "motorbike" 867 435 931 545
+86 8 "car" 125 452 282 574 "involved accident"
+86 9 "motorbike" 356 515 413 569 "involved accident"
+86 10 "person" 284 508 316 571 "involved accident"
+86 16 "motorbike" 953 433 1031 544
+86 17 "motorbike" 782 454 863 545
+86 18 "motorbike" 876 434 941 547
+87 8 "car" 116 451 278 576 "involved accident"
+87 9 "motorbike" 356 515 413 570 "involved accident"
+87 10 "person" 281 510 315 572 "involved accident"
+87 16 "motorbike" 963 432 1043 546
+87 17 "motorbike" 788 453 872 547
+87 18 "motorbike" 885 433 952 550
+88 8 "car" 107 450 274 578 "involved accident"
+88 9 "motorbike" 356 515 413 571 "involved accident"
+88 10 "person" 278 511 314 574 "involved accident"
+88 16 "motorbike" 973 431 1054 548
+88 17 "motorbike" 794 453 881 549
+88 18 "motorbike" 894 432 962 552
+89 8 "car" 98 450 270 581 "involved accident"
+89 9 "motorbike" 356 515 413 572 "involved accident"
+89 10 "person" 275 513 313 575 "involved accident"
+89 16 "motorbike" 983 431 1066 551
+89 17 "motorbike" 801 453 891 551
+89 18 "motorbike" 904 431 973 555
+90 8 "car" 89 449 267 583 "involved accident"
+90 9 "motorbike" 356 515 413 573 "involved accident"
+90 10 "person" 272 514 312 577 "involved accident"
+90 16 "motorbike" 994 428 1077 553
+90 17 "motorbike" 807 451 900 553
+90 18 "motorbike" 914 430 984 558
+91 8 "car" 80 448 263 585 "involved accident"
+91 9 "motorbike" 356 515 413 573 "involved accident"
+91 10 "person" 269 516 311 578 "involved accident"
+91 16 "motorbike" 1005 426 1088 556
+91 17 "motorbike" 813 450 909 556
+91 18 "motorbike" 925 429 996 561
+92 8 "car" 71 448 259 588 "involved accident"
+92 9 "motorbike" 356 515 413 574 "involved accident"
+92 10 "person" 266 517 310 579 "involved accident"
+92 16 "motorbike" 1017 424 1100 558
+92 17 "motorbike" 819 449 919 558
+92 18 "motorbike" 935 428 1008 564
+93 8 "car" 62 447 255 590 "involved accident"
+93 9 "motorbike" 356 515 413 575 "involved accident"
+93 10 "person" 263 519 309 581 "involved accident"
+93 16 "motorbike" 1028 422 1111 561
+93 17 "motorbike" 826 448 928 561
+93 18 "motorbike" 946 427 1020 567
+94 8 "car" 53 446 251 592 "involved accident"
+94 9 "motorbike" 356 515 413 576 "involved accident"
+94 10 "person" 260 520 308 582 "involved accident"
+94 16 "motorbike" 1040 420 1122 564
+94 17 "motorbike" 832 447 937 564
+94 18 "motorbike" 957 426 1032 570
+95 8 "car" 45 446 248 595 "involved accident"
+95 9 "motorbike" 356 515 413 577 "involved accident"
+95 10 "person" 257 522 307 584 "involved accident"
+95 16 "motorbike" 1051 417 1134 566
+95 17 "motorbike" 838 446 947 566
+95 18 "motorbike" 967 425 1044 573
+96 8 "car" 36 443 247 594 "involved accident"
+96 9 "motorbike" 344 519 411 581 "involved accident"
+96 10 "person" 250 524 303 586 "involved accident"
+96 16 "motorbike" 1063 415 1145 569
+96 17 "motorbike" 844 445 956 569
+96 18 "motorbike" 978 424 1056 576
+97 8 "car" 27 440 246 594 "involved accident"
+97 9 "motorbike" 333 524 409 585 "involved accident"
+97 10 "person" 243 526 300 588 "involved accident"
+97 16 "motorbike" 1074 413 1156 572
+97 17 "motorbike" 851 444 965 572
+97 18 "motorbike" 989 423 1068 579
+98 8 "car" 18 437 246 594 "involved accident"
+98 9 "motorbike" 322 528 407 589 "involved accident"
+98 10 "person" 236 528 297 590 "involved accident"
+98 16 "motorbike" 1086 411 1168 574
+98 17 "motorbike" 857 443 975 574
+98 18 "motorbike" 999 422 1080 582
+99 8 "car" 9 434 245 594 "involved accident"
+99 9 "motorbike" 311 533 405 593 "involved accident"
+99 10 "person" 229 530 294 592 "involved accident"
+99 16 "motorbike" 1097 409 1179 577
+99 17 "motorbike" 863 442 984 577
+99 18 "motorbike" 1010 421 1092 585
+100 8 "car" 0 432 245 594 "involved accident"
+100 9 "motorbike" 300 538 404 598 "involved accident"
+100 10 "person" 222 533 291 594 "involved accident"
+100 11 "motorbike" 1219 416 1270 505
+100 12 "motorbike" 1124 412 1190 516
+100 13 "motorbike" 955 430 1023 516
+100 14 "motorbike" 1062 429 1119 513
+100 15 "motorbike" 1013 433 1063 518
+100 16 "motorbike" 1109 407 1191 580
+100 17 "motorbike" 870 441 994 580
+100 18 "motorbike" 1021 421 1104 588
